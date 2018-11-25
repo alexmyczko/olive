@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Olive
+Version=18.10.31
+Comment=Non-linear video editor
+Exec=/usr/bin/olive-editor
+Icon=olive-editor
+Terminal=false
+Type=Application
+Categories=AudioVideo;
+StartupNotify=true

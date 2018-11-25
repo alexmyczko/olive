@@ -1,0 +1,4 @@
+?package(packagename):needs="x11" \
+    section="Applications/Video" \
+    title="Olive" \
+    command="/usr/bin/olive-editor"
